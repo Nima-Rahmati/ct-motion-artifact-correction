@@ -1,0 +1,5 @@
+Sinogram-domain results (test set)
+PSNR before: 19.53 dB
+PSNR after:  32.16 dB
+SSIM before: 0.6509
+SSIM after:  0.9702

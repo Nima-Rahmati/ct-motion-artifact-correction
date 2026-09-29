@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large ML datasets
+*.h5
+*.hdf5
+*.npy
+
+# Trained models and checkpoints
+*.keras
+*.weights.h5
+checkpoints/
+
+# Temporary / archived outputs
+output.zip
+
+# Kaggle
+/kaggle/
+/kaggle/working/
+
+# Environment / secrets
+.env
+.venv/
+venv/
